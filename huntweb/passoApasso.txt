@@ -1,0 +1,5 @@
+create-react-app nomeDoProjeto
+
+yarn add axios
+
+yarn add react-router-dom

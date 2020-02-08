@@ -1,0 +1,11 @@
+npm init -y
+npm install express
+
+npm install -D nodemon  // faz a atualização do servidor toda vez que fazemos uma alteração no código
+
+npm install mongoose
+npm install require-dir
+
+npm install mongoose-paginate
+
+npm install cors
